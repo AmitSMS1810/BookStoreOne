@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20231021/original/pngtree-watercolor-library-book-clip-art-png-image_13391689.png"
+  },
+  {
+    "id": 2,
+    "name": "Kids Adventure",
+    "title": "An exciting adventure story for young readers.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135755.png"
+  },
+  {
+    "id": 3,
+    "name": "Learning JavaScript",
+    "title": "Complete beginner guide to modern JavaScript.",
+    "price": 299,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/29/29302.png"
+  },
+  {
+    "id": 4,
+    "name": "React Development",
+    "title": "Build modern UI using React and hooks.",
+    "price": 399,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png"
+  },
+  {
+    "id": 5,
+    "name": "Motivation Daily",
+    "title": "Daily motivational thoughts for success.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png"
+  },
+  {
+    "id": 6,
+    "name": "HTML & CSS Basics",
+    "title": "Learn web design from scratch step by step.",
+    "price": 199,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/919/919827.png"
+  },
+  {
+    "id": 7,
+    "name": "Startup Guide",
+    "title": "Practical guide to launching your startup.",
+    "price": 249,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 8,
+    "name": "Healthy Living",
+    "title": "Tips for a balanced and healthy lifestyle.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn-icons-png.flaticon.com/512/2965/2965567.png"
+  },
+  {
+    "id": 9,
+    "name": "Node.js Mastery",
+    "title": "Backend development using Node.js and Express.",
+    "price": 499,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/919/919825.png"
+  },
+  {
+    "id": 10,
+    "name": "Digital Marketing",
+    "title": "Learn SEO, Ads and online branding strategies.",
+    "price": 299,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
+  },
+  {
+    "id": 11,
+    "name": "English Speaking",
+    "title": "Improve communication and spoken English skills.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png"
+  },
+  {
+    "id": 12,
+    "name": "Python Programming",
+    "title": "Beginner to advanced Python concepts explained.",
+    "price": 349,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+  },
+  {
+    "id": 13,
+    "name": "UI/UX Design",
+    "title": "Design beautiful user interfaces using Figma.",
+    "price": 279,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+  },
+  {
+    "id": 14,
+    "name": "Mindfulness Guide",
+    "title": "Meditation and mindfulness techniques for stress relief.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://cdn-icons-png.flaticon.com/512/2909/2909768.png"
+  },
+  {
+    "id": 15,
+    "name": "Data Structures",
+    "title": "Master DSA concepts for coding interviews.",
+    "price": 599,
+    "category": "Paid",
+    "image": "https://cdn-icons-png.flaticon.com/512/2721/2721297.png"
+  }
+] 
