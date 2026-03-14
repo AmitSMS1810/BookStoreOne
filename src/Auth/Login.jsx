@@ -25,7 +25,7 @@ function Login() {
     e.preventDefault();
     try {
       setLoading(true)
-      const res = await axios.post("http://localhost:4001/user/login", formData);
+      const res = await axios.post("http://localhost:8080/user/login", formData);
       Swal.fire({
         icon: "success",
         title: "success",

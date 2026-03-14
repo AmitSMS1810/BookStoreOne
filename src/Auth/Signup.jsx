@@ -26,7 +26,7 @@ function Signup() {
     e.preventDefault();
     try {
       setLoading(true)
-      const response = await axios.post('http://localhost:4001/user/signup', formData);
+      const response = await axios.post('http://localhost:8080/user/signup', formData);
       Swal.fire({
         icon: 'success',
         title: 'success',
@@ -43,7 +43,7 @@ function Signup() {
       });
       console.log('error', error)
     } finally{
-      setLoading(true);
+      setLoading(false);
     }
   };
 
